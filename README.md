@@ -41,6 +41,8 @@ Business Insights
 
 ## 📊 Power BI Dashboard
 
+![Credit Risk Dashboard](PowerBI/Credit_Risk_Dashboard.png)
+
 The Power BI dashboard provides an overview of:
 
 - Total Loans
@@ -100,7 +102,7 @@ The Power BI dashboard provides an interactive way to explore these patterns acr
 | File | Description |
 |---|---|
 | `credit_risk_dataset.csv` | Original/raw dataset |
-| `Credit_Risk_dataset_cleaned.csv` | Excel analysis |
+| `Credit_Risk_dataset_cleaned.xlsx` | Excel analysis |
 | `Credit_Risk_Queries.sql` | SQL queries |
 | `Credit_Risk_Analysis.ipynb` | Python analysis |
 | `Credit_Risk_Dashboard.pbix` | Power BI dashboard |
